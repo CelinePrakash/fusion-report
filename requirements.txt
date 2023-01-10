@@ -1,9 +1,10 @@
+cython
 tqdm
 colorlog
 python-rapidjson
 pyyaml>=4.2b1
 Jinja2>=2.10
 MarkupSafe
-pandas
+pandas==1.0.5 
 openpyxl
 xlrd >= 1.0.0

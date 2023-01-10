@@ -47,6 +47,10 @@
                 {
                     "key": "--jaffa",
                     "help": "Jaffa output file"
+                },
+                {
+                    "key": "--cicero",
+                    "help": "CICERO output file"
                 }
             ],
             "optionals": [
